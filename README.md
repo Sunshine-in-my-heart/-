@@ -1,3 +1,4 @@
+![read](https://github.com/user-attachments/assets/fe4a27a8-7acf-477a-9051-c6129ad17139)
 # 须知
 
 本项目只有单选、多选、打分题，其余的需要自己设计，支持按照比例完成问卷
